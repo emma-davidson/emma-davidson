@@ -1,7 +1,7 @@
  ## Hi there 👋 I'm Emma. Im a web developer with a keen interest in creating responsive websites. Welcome to my github profile.
 
  ##About Me
- I have over two years as a graphic designer. I have also been interested in web development. I have honed my skills in web development by attending a bootcamp. I love taking on new challenges and I am eager to learn new skills and improve my designs where I can.
+ I have over two years experience as a graphic designer. I am also interested in web development. I have honed my skills in web development by attending a bootcamp. I love taking on new challenges and I am eager to learn new skills and improve my designs where I can.
 
  ##Skills & Technologies
  HTML5 | CSS3 | Javascript | Git | GitHub | Web Design | Graphic Design | Figma | Adobe Creative Suites
